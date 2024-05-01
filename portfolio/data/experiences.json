@@ -1,0 +1,36 @@
+{
+  "work": [
+    {
+      "title": "Full Stack Engineer",
+      "type": "Full Time",
+      "location": "SAP",
+      "period": "March 2022 – Present"
+    },
+    {
+      "title": "Software Engineer",
+      "type": "Full Time",
+      "location": "Accenture",
+      "period": "Dec 2019 – Mar 2022"
+    },
+    {
+      "title": "Software Engineer",
+      "type": "Internship",
+      "location": "Wipro Limited",
+      "period": "Feb 2019 – May 2019"
+    },
+    {
+      "title": "Software Developer Intern",
+      "type": "Internship",
+      "location": "Siemens",
+      "period": "Dec 2017 – Jan 2018"
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor's in Computer Science",
+      "type": "Bachelor's",
+      "location": "Jaypee Institute of Information Technology",
+      "period": "Jun 2015 – May 2019"
+    }
+  ]
+}
