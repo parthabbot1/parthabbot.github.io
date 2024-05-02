@@ -1,5 +1,5 @@
 // Resume file path
-export const resumeFileName = "//Users/pramodabbot/ParthAbbotSDE2024.docx.pdf";
+export const resumeFileName = "/parth.pdf";
 
 // Wakatime
 export const lightWakatime =

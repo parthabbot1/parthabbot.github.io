@@ -2,7 +2,7 @@
   {
     "title": "Full-Stack-Admin-Data-Analysis-Tool-",
     "name": "Admin-Data-Analysis-Tool",
-    "description": "customer sales and monthly sales reports for the owner (admin)",
+    "description": "Customer sales and monthly sales reports for the owner (admin)",
     "overview": [
       "The Full-Stack Admin Data Analysis Tool is a MERN stack application that provides a comprehensive analysis of customer sales and monthly sales reports for the owner (admin). ",
       "It includes multiple graphs to represent the data, offering a visual and interactive way to explore the sales data.",
@@ -14,29 +14,15 @@
     "previewUrl": "https://github.com/parthabbot1/Full-Stack-Admin-Data-Analysis-Tool-"
   },
   {
-    "title": "My Portfolio",
-    "name": "My Portfolio ",
-    "description": "Portfolio website ",
-    "overview": [
-      "This a portfolio website to showcase my experience and skills",
-      "It has been created using React.js and Chakra-UI ",
-      ""
-    ],
-    "imageUrl": "/images/projects/craiyonft.png",
-    "imageIsPortrait": false,
-    "techStack": ["React.js", "Chakra-ui"],
-    "sourceUrl": "https://github.com/parthabbot1/Game-Api-using-Elixir"
-  },
-  {
     "title": "Game-Api-using-Elixir",
-    "name": "Game-Api-using-Elixir ",
+    "name": "Game-Api-using-Elixir",
     "description": "Game Api for wallet integration in App",
     "overview": [
       "This a game Api which manages wallet transactions for thousands of players with many no of callbacks.",
       "This is a pure backend api created for other game platforms who wants wallet integration in their applications",
       "The callbacks include win,bet,start,create_users"
     ],
-    "imageUrl": "/images/projects/craiyonft.png",
+    "imageUrl": "/images/projects/game.png",
     "imageIsPortrait": false,
     "techStack": ["Elixir", "Erlang"],
     "sourceUrl": "https://github.com/parthabbot1/Game-Api-using-Elixir"
@@ -50,8 +36,22 @@
       "It also includes pagination and toggle to switch designs of the table. The toggle turns on the interactive mode, I have also used some Moon.io components(by yolo) as well.",
       "I have not used any other external component or Ui library and the code is written with pure HTML CSS styles.(No 3rd party Ui library has been used except for Moon.io)"
     ],
-    "imageUrl": "/images/projects/nft-artzone.png",
+    "imageUrl": "/images/projects/terra.png",
     "imageIsPortrait": false,
-    "techStack": ["Typescript", "Node.js", "React.js", "GraphQl"]
+    "techStack": ["Typescript", "Node.js", "React.js", "GraphQl"],
+    "sourceUrl": "https://github.com/parthabbot1/TerraSphere-GraphQL-Explorer"
+  },
+  {
+    "title": "My Portfolio",
+    "name": "My Portfolio ",
+    "description": "Portfolio website",
+    "overview": [
+      "This a portfolio website to showcase my experience and skills",
+      "It has been created using React.js and Chakra-UI "
+    ],
+    "imageUrl": "/images/projects/myportfolio.png",
+    "imageIsPortrait": false,
+    "techStack": ["React.js", "Node.Js"],
+    "sourceUrl": "https://github.com/parthabbot1/parthabbot.github.io"
   }
 ]

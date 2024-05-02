@@ -114,13 +114,14 @@ export default function Introduction({ animation }: { animation: string }) {
           _light={{ color: "gray.3" }}
           _dark={{ color: "gray.4" }}
         >
-          {"I'm"} {buildGithubLink()}, a Software Developer with more than 5 years of 
-          experience in designing, developing, and delivering high-quality software 
-          solutions using relational (SQL) and non-relational (NoSQL) databases,you 
-          can know more {buildLink("about me", "/about")}, I am looking to be a part 
-          of project involving Functional Programming, Microservices Development, 
-          UI/UX development, Agile Development. You can check out some of my 
-          {buildLink("projects", "/projects")}  Feel free to{" "}
+          {"I'm"} {buildGithubLink()}, a Software Developer with more than 5
+          years of experience in designing, developing, and delivering
+          high-quality software solutions using relational (SQL) and
+          non-relational (NoSQL) databases, you can know more{" "}
+          {buildLink("about me", "/about")} here, I am looking to be part of a
+          project involving Functional Programming, Microservices
+          Development, UI/UX development, Agile Development. You can check out
+          some of my {buildLink("projects", "/projects")} Feel free to{" "}
           {buildLink("contact me", "/contact-me")} any time for a chat.
         </Box>
       </VStack>
