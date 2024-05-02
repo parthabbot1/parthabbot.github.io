@@ -1,6 +1,6 @@
 <base target="_blank">
 
-![Project Preview](./public/images/myportfolio.png)
+![Project Preview](portfolio/public/images/myportfolio.png)
 
 # Portfolio Website
 
