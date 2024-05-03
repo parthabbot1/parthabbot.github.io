@@ -33,21 +33,21 @@ export default function Application({
         <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
         <meta name="google" content="notranslate" key="notranslate" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta property="og:site_name" content="kevinchangjk" />
+        <meta property="og:site_name" content="parthabbot" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="kevinchangjk" />
+        <meta property="og:title" content="parthabbot" />
         <meta
           property="og:description"
-          content="Digital Portfolio of Kevin Chang Jon Kit, a Software Engineer"
+          content="Digital Portfolio of Parth Abbot, a Software Engineer"
         />
         <meta property="og:image" content="/images/preview.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content="/images/preview.png" />
         <link rel="icon" href="/images/favicon.ico" sizes="any" />
-        <meta name="title" content="kevinchangjk" />
+        <meta name="title" content="parthabbot" />
         <meta
           name="description"
-          content="Digital Portfolio of Kevin Chang Jon Kit, a Software Engineer"
+          content="Digital Portfolio of Parth Abbot, a Software Engineer"
           key="desc"
         />
         <link rel="preload" href={lightWakatime} as="image" />
